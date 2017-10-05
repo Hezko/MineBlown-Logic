@@ -17,7 +17,7 @@ The project started in order to fix the current abusive attitude toward mineswee
  `npm install mineblown-logic --save` 
 
 ### Require
- `var mineblown = require(mineblown-logic);` 
+ `var mineblown = require("mineblown-logic");` 
 
 ## Usage
 
