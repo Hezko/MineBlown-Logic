@@ -1,0 +1,23 @@
+{
+  "name": "mineblown-logic",
+  "version": "1.0.0",
+  "description": "minesweeper game logic from http://minesweeper.mineblown.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hezko/MineBlown-Logic.git"
+  },
+  "keywords": [
+    "minesweeper",
+    "mineblown"
+  ],
+  "author": "Tomer Haskalovitch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hezko/MineBlown-Logic/issues"
+  },
+  "homepage": "https://github.com/Hezko/MineBlown-Logic#readme"
+}
