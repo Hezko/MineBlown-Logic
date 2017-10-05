@@ -1,6 +1,6 @@
 # MineBlown-Logic
 Minesweeper game logic implementation easy for use.
-Created as part of MineBlown project (http://minesweeper.mineblown.com)
+Created as part of [MineBlown](http://minesweeper.mineblown.com) project (http://minesweeper.mineblown.com)
 
 ## About MineBlown Project
 MineBlown is a free to play retro looking cutting edge minesweeper online game.
