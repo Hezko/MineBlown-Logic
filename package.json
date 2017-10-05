@@ -1,6 +1,6 @@
 {
   "name": "mineblown-logic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "minesweeper game logic from http://minesweeper.mineblown.com",
   "main": "./dist/index.js",
   "scripts": {
