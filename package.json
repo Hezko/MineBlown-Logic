@@ -2,7 +2,7 @@
   "name": "mineblown-logic",
   "version": "1.0.1",
   "description": "minesweeper game logic from http://minesweeper.mineblown.com",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel lib --presets babel-preset-es2015 --out-dir dist"
