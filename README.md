@@ -17,7 +17,17 @@ The project started in order to fix the current abusive attitude toward mineswee
  `npm install mineblown-logic --save` 
 
 ### Require
- `var mineblown = require(mineblown-logic);` 
+ `var mineblown = require("mineblown-logic");` 
+
+## Usage
+
+### Board Game Initialization
+`var { Board, Game, RandomBoardLocationsProvider } = require("mineblown-logic");` 
+
+` var minesIndices = RandomBoardLocationsProvider.getRandomIndexesByBoardSize(10, 10, 10);` 
+` var board = new Board(10, 10, minesIndices);` 
+
+` var g = new Game(board); `
 
 ## Contribution
 
